@@ -1,0 +1,26 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": " Nagy Marcsi",
+      "email": "nagymarcsi@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": " Kis Marcsi",
+      "email": "kismarcsi@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": " Széles Marcsi",
+      "email": "szelesmarcsi@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      " userID": 1
+    }
+  ]
+}
